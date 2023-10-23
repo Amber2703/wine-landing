@@ -9,7 +9,7 @@ Technologies Used
 The Wine Recommendation System is built using the following technologies:
 
 
-HTML/CSS
+HTML/SCSS/CSS
 
 
 Contributing

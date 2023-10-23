@@ -1,0 +1,38 @@
+html,
+body {
+  box-sizing: border-box;
+  height: 100%; 
+  margin: 0;
+  padding: 0; 
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+  
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: $b;
+}
+a:hover {
+  color: $or;
+}
+
+.wrapper {
+  max-width: 1920px;
+  margin: 0 auto;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  background-color: $w;
+}
+.container {  
+  max-width: 1350px;
+  margin: 0 auto;
+}
